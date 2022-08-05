@@ -1,6 +1,6 @@
 # 使用vue3.js编写的小米官网页面
 
-## Project setup
+## 使用vue3.js编写的小米官网页面
 ```
 npm install
 ```
